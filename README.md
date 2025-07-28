@@ -2,7 +2,7 @@
 
 Author: Tyriq McNulty
 
-This project demonstrates advanced threat hunting techniques using EVTX logs parsed in Splunk over the course of 3 weeks. It simulates a real-world compromise involving persistence, privilege escalation, spoofing, and execution techniques observed in malware campaigns.
+This project demonstrates advanced threat hunting techniques using EVTX logs analyzed in Splunk over the course of 3 weeks. It simulates a real-world compromise involving persistence, privilege escalation, spoofing, and execution techniques observed in malware campaigns.
 
 ##  Techniques Detected (MITRE ATT&CK)
 
